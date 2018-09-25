@@ -1,8 +1,13 @@
-body {
+#body {
+  background-color: #000000;
+}
+
+#container{
   background-color: #EEEEEE;
 }
 
 #header{
   background-color: #E9EE2F;
-  color: grey
+  color: grey;
+  text-align: center;
 }
