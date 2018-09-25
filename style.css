@@ -1,5 +1,15 @@
 body {
   background-color: #4D4D4D;
+  font-family: avenir, futura, system-ui, fantasy;
+}
+
+a {
+  text-decoration: none;
+  color: #4D4D4D;
+}
+
+h1, h2, h3 {
+  margin: 0;
 }
 
 #container {
@@ -23,6 +33,16 @@ body {
   width: 180px;
   float: left;
 }
+
+#nav {
+  list-style: none;
+  padding: 0;
+}
+
+#nav .selected {
+  font-weight: bold;
+}
+
 
 #main {
   width: 600px;
