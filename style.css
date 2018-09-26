@@ -23,6 +23,7 @@ h1, h2, h3 {
   background-color: #E9EE2F;
   color: grey;
   text-align: center;
+  padding: 10px;
 }
 
 #content {
@@ -50,6 +51,8 @@ h1, h2, h3 {
 }
 
 #footer {
-  text-align: right;
   clear: both;
+  text-align: center;
+  padding: 10px;
+  background-color: #E9EE2F;
 }
